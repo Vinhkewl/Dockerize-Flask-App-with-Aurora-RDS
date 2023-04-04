@@ -8,4 +8,4 @@ Create an application using Docker that communicates with an Aurora Serverless i
 - Run Docker
 - Result
 
-![Example image](images/example.png)
+![Example image](image/1.PNG)

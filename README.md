@@ -8,4 +8,4 @@ Create an application using Docker that communicates with an Aurora Serverless i
 - Run Docker
 - Result
 
-![Alt text](Dockerize-Flask-App-with-Aurora-RDS/image/1.PNG)
+![Alt text](/Dockerize-Flask-App-with-Aurora-RDS/image/1.PNG)

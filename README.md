@@ -7,3 +7,5 @@ Create an application using Docker that communicates with an Aurora Serverless i
 - Code up the app
 - Run Docker
 - Result
+
+![alt text](http://url/to/img.png)

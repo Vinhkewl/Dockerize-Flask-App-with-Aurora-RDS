@@ -8,7 +8,7 @@ Create an application using Docker that communicates with an Aurora Serverless i
 - Run Docker
 - Result
 
-![Example image](image/1.PNG)
-![Example image](image/2.PNG)
-![Example image](image/3.PNG)
-![Example image](image/4.PNG)
+![Example image1](image/1.PNG)
+![Example image2](image/2.PNG)
+![Example image3](image/3.PNG)
+![Example image4](image/4.PNG)
